@@ -14,4 +14,4 @@ USAGE: <br>
 @prefix = prefix for everyletter ( ex: a color like ~r~ ) <br>
 @scale = text scale  <br>
 
-exports['resource']:subtitleText(dimension, font, posVector, offsetTime, prefix, scale)
+<b> exports['resource']:subtitleText(dimension, font, posVector, offsetTime, prefix, scale) </b>
